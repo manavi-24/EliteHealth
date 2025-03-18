@@ -24,13 +24,13 @@
 - A dedicated space for users to share and read inspiring recovery stories.  
 - Encourages a sense of community and emotional well-being.   
 
-##Tech Stack
+### 👩🏼‍💻Tech Stack
 - Frontend: HTML, CSS, JavaScript  
 
-##Future Enhancements
+### 🚀Future Improvements
 - Improved UI/UX for a more accessible experience  
-- Integration of **Rewards Program** where users earn points for engagement and contributions  
-- Implementation of an **Online Medicine Delivery System**  
+- Integration of Rewards Program where users earn points for engagement and contributions  
+- Implementation of an Online Medicine Delivery System  
 - Backend development with database support for user data and authentication  
 - Mobile app version for easier access  
 
